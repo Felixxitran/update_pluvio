@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/update_pluvio/static/css/main.dba93ea5.css",
+    "main.js": "/update_pluvio/static/js/main.8a4d63ab.js",
+    "static/media/hutao2k.jpg": "/update_pluvio/static/media/hutao2k.c3318b45eeb1150ddf99.jpg",
+    "index.html": "/update_pluvio/index.html",
+    "main.dba93ea5.css.map": "/update_pluvio/static/css/main.dba93ea5.css.map",
+    "main.8a4d63ab.js.map": "/update_pluvio/static/js/main.8a4d63ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba93ea5.css",
+    "static/js/main.8a4d63ab.js"
+  ]
+}
