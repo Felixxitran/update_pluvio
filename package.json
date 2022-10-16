@@ -1,5 +1,5 @@
 {
-  "name": "live_pluvio",
+  "name": "update_pluvio",
   "version": "1.0.0",
   "homepage": "https://felixxitran.github.io/update_pluvio",
   "dependencies": {
@@ -8,8 +8,7 @@
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.9.3",
     "axios": "^0.27.2",
-    "firebase": "^9.12.1",
-    "gh-pages": "^4.0.0",
+    
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
@@ -19,8 +18,7 @@
     "start": "^5.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
